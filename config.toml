@@ -1,0 +1,32 @@
+baseURL = 'https://willfurnell.com/'
+languageCode = 'en-gb'
+title = 'Will Furnell'
+theme = "ananke"
+enableRobotsTXT = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+[menu]
+[[menu.main]]
+  identifier = 'home'
+  name = 'Home'
+  url = '/'
+
+[[menu.main]]
+  identifier = 'projects'
+  name = 'Projects'
+  url = '/blog'
+
+[[menu.main]]
+  identifier = 'photography'
+  name = 'Photography'
+  url = 'https://wills.photography'
+
+[params]
+    twitter = "https://twitter.com/willfurnell"
+    github = "https://github.com/willfurnell"
+    instagram = "https://instagram.com/willfurnell"
