@@ -1,7 +1,7 @@
 baseURL = 'https://willfurnell.com/'
 languageCode = 'en-gb'
 title = 'Will Furnell'
-theme = "ananke"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 enableRobotsTXT = true
 
 [markup]
@@ -26,7 +26,22 @@ enableRobotsTXT = true
   name = 'Photography'
   url = 'https://wills.photography'
 
-[params]
-    twitter = "https://twitter.com/willfurnell"
-    github = "https://github.com/willfurnell"
-    instagram = "https://instagram.com/willfurnell"
+[ananke.social.follow]
+new_window_icon = false
+networks = [
+  "bluesky",
+  "github",
+  "instagram"
+]
+
+[ananke.social.bluesky]
+username = 'willfurnell.com'
+
+[ananke.social.github]
+username = 'willfurnell'
+
+[ananke.social.instagram]
+username = 'willfurnell'
+
+[ananke.social.share]
+disable_share = true

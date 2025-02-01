@@ -7,7 +7,7 @@ featured_image: '/images/featured/ouse.jpg'
 
 Hello!
 
-{{% picture "will.jpg" %}}
+![Photo of Will in  Boulby Mine](will.jpg)
 
 You can check out my projects notes, or check out my work or contact me at the following places:
 
@@ -15,7 +15,7 @@ You can check out my projects notes, or check out my work or contact me at the f
 
 [Instagram](https://instagram.com/willfurnell/)
 
-[Twitter](https://twitter.com/willfurnell)
+[Bluesky](https://bsky.app/@willfurnel.com)
 
 [GitHub](https://github.com/willfurnell)
 

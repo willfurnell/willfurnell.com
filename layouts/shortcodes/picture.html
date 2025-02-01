@@ -1,6 +1,0 @@
-{{ $Filename := .Get 0 }}
-
-<img src="{{.Site.BaseURL}}/gen/images/{{ replaceRE "(.*)\\.(\\w+)$" "$1-medium.$2" $Filename }}"
-    srcset="{{.Site.BaseURL}}/gen/images/{{ replaceRE "(.*)\\.(\\w+)$" "$1-large.$2" $Filename }} 960w,
-    {{.Site.BaseURL}}/gen/images/{{ replaceRE "(.*)\\.(\\w+)$" "$1-medium.$2" $Filename }} 480w,
-    {{.Site.BaseURL}}/gen/images/{{ replaceRE "(.*)\\.(\\w+)$" "$1-small.$2" $Filename }} 280w"/>
