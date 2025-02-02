@@ -15,7 +15,7 @@ You can check out my projects notes, or check out my work or contact me at the f
 
 [Instagram](https://instagram.com/willfurnell/)
 
-[Bluesky](https://bsky.app/@willfurnel.com)
+[Bluesky](https://bsky.app/profile/willfurnel.com)
 
 [GitHub](https://github.com/willfurnell)
 

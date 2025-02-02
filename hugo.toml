@@ -27,7 +27,6 @@ enableRobotsTXT = true
   url = 'https://wills.photography'
 
 [ananke.social.follow]
-new_window_icon = false
 networks = [
   "bluesky",
   "github",
