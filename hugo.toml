@@ -18,7 +18,7 @@ enableRobotsTXT = true
 
 [[menu.main]]
   identifier = 'projects'
-  name = 'Projects'
+  name = 'Projects & Blog'
   url = '/blog'
 
 [[menu.main]]
