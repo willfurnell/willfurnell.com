@@ -20,27 +20,27 @@ var viewer = OpenSeadragon({
 });
 </script>
 
-**Tagebau Hambach Aussichtspunkt - Terra Nova 1** - the largest open cast lignite (coal) mine in Europe. I genuinely have never seen anything like this, the scale is incomprehensible and photos don't so it justice.
+[**Tagebau Hambach Aussichtspunkt - Terra Nova 1**](https://www.rwe.com/nachbarschaft/rwe-erleben/unsere-aussichtspunkte/aussichtspunkt-terra-nova/) - the largest open cast lignite (coal) mine in Europe. I genuinely have never seen anything like this, the scale is incomprehensible and photos don't so it justice.
 
 ![A suspended blue carriage hanging from a green track over a river with green trees on either side.](wuppertal.jpg)
 
-**Wuppertal** - the Schwebebahn - I spent all day going back and forth!
+[**Wuppertal**](https://schwebebahn.de/en) - the Schwebebahn - I spent all day going back and forth!
 
 ![A large building that looks to be made of brick with rails going underneath embedded in the ground with a diagonal part in front.](zollverein.jpg)
 
-**Zollverein** - a preserved mine complex
+[**Zollverein**](https://www.zollverein.de/zollverein-unesco-world-heritage-site/) - a preserved mine complex
 
 ![A large, rusted industrial facility with metal structures and a chimney, surrounded by greenery.](landschaftpark.jpg)
 
-**Landschaftspark Duisburg-Nord** - a preserved ironworks - really quite incredible, going up the blast furnace was a highlight of the trip.
+[**Landschaftspark Duisburg-Nord**](https://www.landschaftspark.de/en/) - a preserved ironworks - really quite incredible, going up the blast furnace was a highlight of the trip.
 
 ![A train carriage with a large smelting pot in a platform at a station.](oberhausen.jpg)
 
-**Oberhausen Hbf** - for the museum on the platforms
+[**Oberhausen Hbf**](https://www.bahnhof.de/oberhausen-hbf) - for the museum on the platforms
 
 ![A large yellow cutting machine cutting away at a coal face](mining_musem.jpg)
 
-**Deutsches Bergbau-Museum Bochum** - The German Mining Museum
+[**Deutsches Bergbau-Museum Bochum**](https://www.bergbaumuseum.de/en/) - The German Mining Museum
 
 You can find more photos on my [photography website](https://wills.photography/gallery/cs-ys-uMgeoJSdPCGQgR2qcA).
 
