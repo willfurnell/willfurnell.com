@@ -2,7 +2,6 @@
 title: willfurnell.com
 
 description: "Will Furnell's home on the web"
-featured_image: '/images/featured/lignite_will.jpg'
 ---
 
 **Hello!**
