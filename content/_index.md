@@ -1,9 +1,3 @@
----
-title: willfurnell.com
-
-description: "Will Furnell's home on the web"
----
-
 **Hello!**
 
 ![Photo of Will in  Boulby Mine](will.jpg)
