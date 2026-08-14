@@ -1,7 +1,7 @@
 baseURL = 'https://willfurnell.com/'
 languageCode = 'en-gb'
 title = 'Will Furnell'
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
+theme = ["github.com/gohugo-ananke/ananke/v2"]
 enableRobotsTXT = true
 
 [markup]
@@ -44,3 +44,4 @@ username = 'willfurnell'
 
 [ananke.social.share]
 disable_share = true
+
