@@ -1,7 +1,7 @@
 ---
 title: Trip to the Netherlands - with infrastructure!
 featured_image: /images/featured/nl.jpg
-date: 2026-09-26
+date: 2026-10-04
 ---
 
 In September 2026 my partner and I traveled to the Netherlands for a holiday to enjoy Dutch infrastructure and wildlife and many other things!
@@ -61,10 +61,13 @@ It is easy to get to Veluwe Actief Posbank by taking a train from Arnhem to Rhed
 
 After the canoe ride, we ate lunch at the canteen at the [visitor centre](https://www.biesboschcentrumdordrecht.nl/en) (which is better than expected based on reviews) and then got the passenger ferry across the water to walk around one of the islands. 
 
-Getting to and from Biesbosch Centrum Dordrecht is difficult with public transport alone. We got a mainline train from Rotterdam to Dordrecht, and then a taxi (Lyft/Uber) to the visitor centre.
+Getting to and from Biesbosch Centrum Dordrecht is difficult with public transport alone. We got a mainline train from Rotterdam to Dordrecht, and then a taxi (Bolt/Uber) to the visitor centre.
 
 ![Two wild horses in the undergrowth with an electrified railway line behind them.](oostvaardersplassen.jpg)
 **Birdwatching in [Oostvaardersplassen](https://www.staatsbosbeheer.nl/uit-in-de-natuur/locaties/oostvaardersplassen)** _NL_ - this is a lovely area with a number of bird hides to be able to see wildlife. We saw a couple of different species of birds and wild horses. There are paved paths to get to them, which makes access quite easy. We went here after crossing the Houtribdijk by car, and spent about an hour here, before it closed for the day.
+
+![A spoonbill bird](spoonbill.jpg)
+**Birdwatching [near Den Oever](https://maps.app.goo.gl/vfTaDNkvLRg3neBa6)** - near the Afsluitdijk is a good place for birdwatching - specifically for spoonbills. This is a short walk away from the restaurants a the harbour. There is plenty of parking. 
 
 # Other recommendations
 
